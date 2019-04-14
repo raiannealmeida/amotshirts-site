@@ -1,0 +1,16 @@
+﻿body {background:#FFFFCC;}
+
+/*MENU COM ÍCONES */
+
+#nav { width: 960px; background:#FFFFFF; margin: 160px; float: left; border-radius: 20px} /* margin: 180px = Pata centralizar e dar espaçamento*/
+#nav ul { margin: 0; padding: 0; list-style: none; width: 100%; float: left; } /* list-style: nome é par tirar os pontos que ficam antes*/
+#nav ul li { float: left; font: 20px century gothic; }
+#nav ul li a { color: #8E2323; text-decoration: none; padding: 20px; display: block; } /* color = a cor do link; text-decoraition= tirar o sublinhado do link*/
+#nav ul li:hover {background:#0000FF; } 
+
+/* ----- CABEÇALHO-----*/
+
+#cabeçalho {border-bottom: 1px #8E2323 dashed; height: 150px; float: left border-radius: 5px }
+#cabeçalho ul { margin: 0; padding: 0; list-style: none; width: 100%;}
+#cabeçalho ul li {float: left; font: 13px century gothic;}
+#cabeçalho ul li a {color: #8E2323; text-decoration: none; padding: 20px; display: block}
